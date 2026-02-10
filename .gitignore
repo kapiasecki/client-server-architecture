@@ -1,0 +1,6 @@
+**/.idea/
+*.iml
+node_modules/
+*.log
+*.zip
+Basics of Client - Server Architecture/Customizing Bootstrap/activity 11.3/
